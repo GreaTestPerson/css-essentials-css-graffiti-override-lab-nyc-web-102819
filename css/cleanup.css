@@ -1,12 +1,12 @@
 /* write your override styles here */
 
-/* Tag 1 -> 10 */
-#wall .tag-1 { /* 110 */
+
+#wall .tag-1 { 
   display: none;
 }
 
-/* Tag 2 -> 200 */
-body #wall #tag-2 { /* 201 */
+
+#wall du#tag-2 { /
   display: none;
 }
 
